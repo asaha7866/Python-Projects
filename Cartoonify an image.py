@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # Reading image
-img = cv2.imread('C:\\Users\\HP\\Downloads//basak.jpeg')
+img = cv2.imread('C:\\Users\\HP\\Downloads//ayan.jpeg')
 
 def cartoonize(img, k):
 
